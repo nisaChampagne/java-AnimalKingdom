@@ -30,7 +30,7 @@ public abstract class AbstractAnimal
         return name;
     }
 
-    public getYearNamed()
+    public int getYearNamed()
     {
         return yearNamed;
     }
